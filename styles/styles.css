@@ -1,0 +1,16 @@
+/* font work-sans  */
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+/* common styles */ 
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+/* header styles */
+.heading-section {
+  display: flex;
+}
+.navigation-bar ul {
+  display: flex;
+  list-style: none;
+}
